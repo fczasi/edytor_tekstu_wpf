@@ -25,15 +25,14 @@
                 <Image Source="C:\Users\Administrator\Desktop\ikony\podkreslanie.png" Width="16" Height="16" />
             </ToggleButton>
             <Button Command="Cut" ToolTip="Cut selection to Windows Clipboard.">
-                <Image Width="25" Source="cut.png" />
+                <Image Width="25" Source="C:\Users\Administrator\Desktop\ikony\cut.png" />
             </Button>
             <Button Command="Copy" ToolTip="Copy selection to Windows Clipboard.">
-                <Image Width="25" Source="copy.png" />
+                <Image Width="25" Source="C:\Users\Administrator\Desktop\ikony\copy.png" />
             </Button>
             <Button Command="Paste" ToolTip="Paste from Windows Clipboard.">
                 <StackPanel Orientation="Horizontal">
-                    <Image Width="25" Source="paste.png" />
-                    <TextBlock Margin="3,0,0,0">Paste</TextBlock>
+                    <Image Width="25" Source="C:\Users\Administrator\Desktop\ikony\paste.png" />
                 </StackPanel>
             </Button>
             <Separator />

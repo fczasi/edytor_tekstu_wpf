@@ -58,6 +58,18 @@ namespace WpfTutorialSamples.Rich_text_controls
 				range.Save(fileStream, DataFormats.Rtf);
 			}
 		}
+		public partial class ToolbarSample : Window
+		{
+			public ToolbarSample()
+			{
+
+			}
+
+			private void CommonCommandBinding_CanExecute(object sender, CanExecuteRoutedEventArgs e)
+			{
+				e.CanExecute = true;
+			}
+		}
 
 		private void cmbFontFamily_SelectionChanged(object sender, SelectionChangedEventArgs e)
 		{
