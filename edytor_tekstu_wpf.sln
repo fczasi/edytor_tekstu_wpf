@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "edytor_tekstu_wpf", "edytor_tekstu_wpf\edytor_tekstu_wpf.csproj", "{1A3840A1-A410-49A8-A4DF-1D002C714CAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A3840A1-A410-49A8-A4DF-1D002C714CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A3840A1-A410-49A8-A4DF-1D002C714CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A3840A1-A410-49A8-A4DF-1D002C714CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A3840A1-A410-49A8-A4DF-1D002C714CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F999C81-DF00-4C91-9DF0-09846190C429}
+	EndGlobalSection
+EndGlobal
